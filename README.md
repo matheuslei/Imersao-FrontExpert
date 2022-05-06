@@ -18,3 +18,6 @@ Assuntos abortados:
 Certificado de participação - Imersão FrontExpert
 
 [Certificado de participação - Imersão FrontExpert.pdf](https://github.com/matheuslei/Imersao-FrontExpert/files/8642069/Certificado.de.participacao.-.Imersao.FrontExpert.pdf)
+
+![image](https://user-images.githubusercontent.com/65515537/167171212-2abfda1b-4d27-4399-bc13-b3132e7ad00d.png)
+
