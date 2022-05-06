@@ -1,6 +1,6 @@
 # Imersao-FrontExpert!
 
-Participação da imerssão FrontExpert realizada nos dias 11/04, 12/04, 13/04 e 18/04 com o professor Daniel Castro.
+Participação da imerssão FrontExpert realizada nos dias 11/04, 12/04, 13/04 e 18/04/2022 com o professor Daniel Castro.
 
 Assuntos abortados: 
 - Ambientes com Next.js, TypeScript e TailwindCSS
